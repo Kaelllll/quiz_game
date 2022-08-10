@@ -30,6 +30,7 @@ while True:
 
     if user_guess == random_number:
       print("You got it!")
+      print("see you later")
       break
       
     elif user_guess > random_number:
